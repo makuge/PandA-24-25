@@ -1,0 +1,83 @@
+[
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "total_pages": 277,
+        "chapter_count": 26,
+        "publication_date": "1951-07-16",
+        "genre": "Fiction",
+        "isbn": "978-0-316-76948-0"
+    },
+    {
+        "title": "Nine Stories",
+        "author": "J.D. Salinger",
+        "total_pages": 198,
+        "chapter_count": 9,
+        "publication_date": "1953-04-06",
+        "genre": "Short Stories",
+        "isbn": "978-0-316-76949-7"
+    },
+    {
+        "title": "Franny and Zooey",
+        "author": "J.D. Salinger",
+        "total_pages": 201,
+        "chapter_count": 2,
+        "publication_date": "1961-09-14",
+        "genre": "Fiction",
+        "isbn": "978-0-316-76950-3"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "total_pages": 328,
+        "chapter_count": 24,
+        "publication_date": "1949-06-08",
+        "genre": "Dystopian Fiction",
+        "isbn": "978-0-452-28423-4"
+    },
+    {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "total_pages": 112,
+        "chapter_count": 10,
+        "publication_date": "1945-08-17",
+        "genre": "Political Satire",
+        "isbn": "978-0-452-28424-1"
+    },
+    {
+        "title": "Homage to Catalonia",
+        "author": "George Orwell",
+        "total_pages": 232,
+        "chapter_count": 12,
+        "publication_date": "1938-04-25",
+        "genre": "Non-fiction",
+        "isbn": "978-0-452-28425-8"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "total_pages": 281,
+        "chapter_count": 31,
+        "publication_date": "1960-07-11",
+        "genre": "Fiction",
+        "isbn": "978-0-06-093546-7"
+    },
+    {
+        "title": "Go Set a Watchman",
+        "author": "Harper Lee",
+        "total_pages": 278,
+        "chapter_count": 19,
+        "publication_date": "2015-07-14",
+        "genre": "Fiction",
+        "isbn": "978-0-06-240985-0"
+    },
+    {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "total_pages": 343,
+        "chapter_count": 4,
+        "publication_date": "1966-01-17",
+        "genre": "Non-fiction",
+        "isbn": "978-0-679-74558-7"
+    }
+]
